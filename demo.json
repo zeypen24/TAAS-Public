@@ -1,0 +1,32 @@
+{ "staff": [
+    {
+      "name": "Jane Doe",
+      "department": "Math",
+      "status": null
+    },
+    {
+        "name": "Best Class",
+        "department": "Mechatronics",
+        "status": null
+    },
+    
+    {
+        "name": "Random Teacher",
+        "department": "Math",
+        "status": null
+    },
+
+    {
+        "name": "Julius Caesar",
+        "department": "History",
+        "status": null
+    },
+
+    {
+        "name": "Issac Newton",
+        "department": "Physics",
+        "status": null
+    }
+
+  ]
+  }

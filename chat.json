@@ -1,0 +1,30 @@
+    { "staff": [
+      {
+        "name": "Michael Abramson",
+        "department": "Math",
+        "status": null
+      },
+      
+      {
+        "name": "Kymberly Acuna",
+        "department": "Guidance",
+        "status": null
+      },
+      {
+        "name": "Timothy Adriance",
+        "department": "Culinary",
+        "status": null
+      },
+      {
+        "name": "Sergei Alschen",
+        "department": "SocStudies",
+        "status": null
+      },
+      {
+        "name": "Jennifer Andaloro",
+        "department": "Guidance",
+        "status": null
+      }
+
+    ]
+    }
